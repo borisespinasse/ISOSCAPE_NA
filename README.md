@@ -1,2 +1,2 @@
 # ISOSCAPE_NA
-C and N zooplankton SI data (observationnal + modelled)
+Observationnal and modelled C and N zooplankton stable isotope data in the North Atlantic Ocean
